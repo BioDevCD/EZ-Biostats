@@ -1,4 +1,4 @@
-[![Traducir con DeepL](https://img.shields.io/badge/Translate_to-Spanish-002e3b?style=flat&logo=deepl)](https://www.deepl.com/translator#en/es/https://github.com/BioDevCD/EZ-Biostats/edit/main/README.md)
+[![Traducir con DeepL](https://img.shields.io/badge/Translate_to-Spanish-002e3b?style=flat&logo=deepl)](https://www.deepl.com/translator#en/es/)
 # EZ Biostats: Online Statistical Analysis and Data Visualization Tool 🧬
 ### Automated Biostatistics & Publication-Ready Graphics for Researchers
 
