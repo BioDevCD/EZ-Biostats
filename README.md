@@ -1,4 +1,10 @@
-[![Traducir con DeepL](https://img.shields.io/badge/Translate_to-Spanish-002e3b?style=flat&logo=deepl)](https://www.deepl.com/translator#en/es/)
+> [!TIP]
+> **Manual Translation:** If you prefer to read this documentation in Spanish, you can use the button below to copy and paste sections into DeepL for a high-quality translation.
+>
+> [![Traducir con DeepL](https://img.shields.io/badge/Translate_to-Spanish-002e3b?style=flat&logo=deepl)](https://www.deepl.com/translator#en/es/)
+
+---
+
 # EZ Biostats: Online Statistical Analysis and Data Visualization Tool 🧬
 ### Automated Biostatistics & Publication-Ready Graphics for Researchers
 
