@@ -34,6 +34,14 @@ Laboratory data analysis is often slow, repetitive, and prone to formatting erro
 
 ---
 
+## 💡 Why EZ Biostats?
+Many researchers look for a **free GraphPad Prism alternative** that doesn't sacrifice statistical rigor. EZ Biostats provides:
+* **Cost-Free Analysis:** No subscriptions or expensive licenses.
+* **Prism-Style Visualization:** Get the same high-quality Jitter plots and error bars expected in top-tier journals.
+* **R-Powered Accuracy:** While Prism is a black box for some, EZ Biostats is transparent and built on the most trusted statistical engine in the world.
+
+---
+
 ## 🔬 Scientific Foundation
 Built on the **R statistical engine**, EZ Biostats leverages industry-standard libraries used in high-impact research. My goal is to streamline data analysis for life sciences, ensuring that technical hurdles don't stand in the way of scientific discovery.
 
