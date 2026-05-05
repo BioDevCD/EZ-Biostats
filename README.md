@@ -47,7 +47,7 @@ If EZ Biostats has saved you time or helped with your research, consider support
 This tool is currently in its stable, semi-functional version. I am actively looking for technical and scientific feedback to improve its robustness.
 
 *   **Found a bug?** Open an [Issue](https://github.com/BioDevCD/ez-biostats/issues)
-*   **Have a suggestion?** Feel free to reach out via [Reddit](https://www.reddit.com/user/Fresh-Wolf-7711/) or email me at `cadiazop@gmail.com`.
+*   **Have a suggestion?** Feel free to reach out via [Reddit](https://www.reddit.com/user/Fresh-Wolf-7711/) or email me at [`cadiazop@gmail.com`](cadiazop@gmail.com).
 *   **Want to contribute?** Feedback on statistical logic and UI/UX is more than welcome.
 
 ---
