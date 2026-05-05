@@ -7,7 +7,7 @@ Go from raw data to a comprehensive statistical report and high-quality visualiz
 
 [**🚀 Launch Live App**](https://biodevcd.shinyapps.io/ez-biostats/)
 
-![EZ Biostats Interface - Automated ANOVA and Jitter Plots](assets/ez-biostats-scientific-analysis.png)
+![EZ Biostats - Free GraphPad Prism Alternative for ANOVA and T-Test Jitter Plots](assets/ez-biostats-scientific-analysis.png)
 
 ---
 
