@@ -23,8 +23,14 @@ Laboratory data analysis is often slow, repetitive, and prone to formatting erro
 
 ## ✨ Automated Statistics & Data Visualization Features
 * **Automated Hypothesis Testing:** Perform **One-Way ANOVA** and **Student's T-Test** online with professional accuracy.
-* **Scientific Jitter Plots:** Automatically generate high-resolution plots with error bars, following international publishing standards (Nature, Science, Cell).
+* **Scientific Jitter Plots:** Generate high-resolution plots with error bars, following international publishing standards (Nature, Science, Cell).
 * **Assumption Testing:** Built-in checks for **Normality (Shapiro-Wilk)** and **Homoscedasticity (Levene's Test)**.
+* **Bilingual Interface:** Full support for both **English and Spanish** users.
+* **Inclusive Design:** 
+    * **Colorblind-Friendly:** Uses the **Viridis color palette**, ensuring plots are accessible to everyone and look great in grayscale prints.
+    * **Dark Mode:** Easy on the eyes for long laboratory sessions.
+
+---
 
 ## 🛠️ How It Works
 1.  **Upload:** Drop your `.csv` or `.xlsx` file.
@@ -45,11 +51,15 @@ Many researchers look for a **free GraphPad Prism alternative** that doesn't sac
 ## 🔬 Scientific Foundation
 Built on the **R statistical engine**, EZ Biostats leverages industry-standard libraries used in high-impact research. My goal is to streamline data analysis for life sciences, ensuring that technical hurdles don't stand in the way of scientific discovery.
 
+---
+
 ## ☕ Support my Work
 If EZ Biostats has saved you time or helped with your research, consider supporting its development:
 
 *   **From Chile 🇨🇱:** [Buy me a coffee via MercadoPago](https://link.mercadopago.cl/ezbiostatscl)
 *   **Rest of the World 🌎:** [Buy me a coffee on Ko-fi](https://ko-fi.com/ezbiostats)
+
+---
 
 ## 💬 Feedback & Contact
 This tool is currently in its stable, semi-functional version. I am actively looking for technical and scientific feedback to improve its robustness.
