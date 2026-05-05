@@ -1,4 +1,4 @@
-* EZ Biostats: Online Statistical Analysis and Data Visualization Tool 🧬
+# EZ Biostats: Online Statistical Analysis and Data Visualization Tool 🧬
 ### Automated Biostatistics & Publication-Ready Graphics for Researchers
 
 **EZ Biostats** is an open-source web tool designed for scientists, biochemists, and life science researchers. It provides robust statistical results—like **ANOVA** and **T-Tests**—without the steep learning curve of R or expensive software.
