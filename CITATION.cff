@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Díaz Opazo"
+  given-names: "Cristóbal A."
+title: "EZ Biostats: Online Statistical Analysis and Data Visualization Tool"
+version: 1.0.0-beta
+date-released: 2026-05-05
+url: "https://github.com/BioDevCD/ez-biostats"
